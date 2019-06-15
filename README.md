@@ -1,4 +1,10 @@
-# Hello-World
+# Hello-Earth
 
-Hey People,
-I am Mong'are , A software Engineer with experience in web programming and coding with .net languages
+Hi Devs,
+Mong'are Sospeter is Me, I am a Software Engineer by Profession, Cyber Security Enthusiast and an Individual Driven by Passion. I have Experience Developing Software and Web Application Systems and Portals.
+
+<?php
+
+echo "Hello World";
+
+?>
